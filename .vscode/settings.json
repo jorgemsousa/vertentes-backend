@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/6508cc99-4a05-45a9-8154-6ce858e80a90/resourceGroups/appsvc_rg_linux_centralus/providers/Microsoft.Web/sites/cv-backend",
+    "appService.deploySubpath": ""
+}
